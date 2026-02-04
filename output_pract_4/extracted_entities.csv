@@ -1,0 +1,46 @@
+text,label,start,end,source
+Apple Inc.,ORG,0,10,spacy
+Tim Cook,PERSON,26,34,spacy
+Cupertino,GPE,87,96,spacy
+California,GPE,98,108,spacy
+"September 12, 2024",DATE,112,130,spacy
+Apple,PERSON,-1,-1,nltk
+Inc.,ORGANIZATION,-1,-1,nltk
+Microsoft,ORG,0,9,spacy
+Google,ORG,14,20,spacy
+Satya Nadella,PERSON,74,87,spacy
+machine learning,AI_TERM,93,109,custom
+artificial intelligence,AI_TERM,42,65,custom
+Go,PROGRAMMING_LANG,14,16,custom
+Guido van Rossum,PERSON,47,63,spacy
+the Python Software Foundation,ORG,88,118,spacy
+Python,GPE,-1,-1,nltk
+Guido,PERSON,-1,-1,nltk
+Rossum,PERSON,-1,-1,nltk
+Python Software Foundation,ORGANIZATION,-1,-1,nltk
+Tesla,ORG,0,5,spacy
+Elon Musk,PERSON,10,19,spacy
+Palo Alto,GPE,73,82,spacy
+yesterday,DATE,83,92,spacy
+CEO Elon Musk,ORGANIZATION,-1,-1,nltk
+Palo,GPE,-1,-1,nltk
+deep learning,AI_TERM,34,47,custom
+neural network,AI_TERM,52,66,custom
+Amazon Web Services,ORG,0,19,spacy
+Jeff Bezos,PERSON,54,64,spacy
+Amazon,ORG,73,79,spacy
+Seattle,GPE,83,90,spacy
+Washington,GPE,92,102,spacy
+Web Services,ORGANIZATION,-1,-1,nltk
+Facebook,PERSON,-1,-1,nltk
+Natural language processing,AI_TERM,0,27,custom
+IBM,ORG,0,3,spacy
+Watson,PERSON,6,12,spacy
+Yorktown Heights,GPE,80,96,spacy
+New York,GPE,98,106,spacy
+machine learning,AI_TERM,18,34,custom
+GPT-4,PERSON,16,21,spacy
+March 2023,DATE,25,35,spacy
+San Francisco,GPE,61,74,spacy
+Sam Altman,PERSON,86,96,spacy
+OpenAI,ORGANIZATION,-1,-1,nltk

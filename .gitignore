@@ -41,16 +41,6 @@ venv.bak/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Output files
-output_pract_1/
-ouput_pract_2/
-*.csv
-*.png
-*.npy
-*.model
-*.pdf
-*.json
-
 # NLTK data
 nltk_data/
 
