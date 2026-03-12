@@ -1,0 +1,6 @@
+Original,Translation,BackTranslation,BLEU-1,BLEU-2,BLEU-3,BLEU-4,Similarity
+Hello how are you today,हैलो आप आज कैसे कर रहे हैं,Hello how you're doing today.,0.5714285714285714,0.3086066999241838,0.12657485247324374,0.08307018474412793,0.5
+India is a beautiful country,भारत एक खूबसूरत देश है,India is a beautiful country,1.0,1.0,1.0,1.0,1.0
+Artificial intelligence is changing the world,तकनीकी बुद्धि दुनिया बदल रही है,Technical Wisdom Changing the World,0.49123845184678916,0.448437301984003,0.38294914446710404,0.21771262023986562,0.375
+Education leads to success,शिक्षा सफलता की ओर ले जाती है,Education Leads to Success,1.0,1.0,1.0,1.0,1.0
+Technology connects people,प्रौद्योगिकी लोगों से जुड़ता है,Connects technology to people,0.75,0.15811388300841897,0.11014893547185509,0.10573712634405641,0.75

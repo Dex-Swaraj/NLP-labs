@@ -1,0 +1,10 @@
+Document_ID,Original_Text,Num_Sentences,Num_Tokens,Num_Filtered,Num_Entities,Sample_Tokens,Sample_Lemmas,Sample_Filtered,num_characters,num_words,num_sentences,avg_word_length,avg_sentence_length,lexical_diversity,flesch_reading_ease
+1,"
+        Natural Language Processing (NLP) is a fascinating field of artificial intelligence.
+      ...",4,56,30,0,Natural Language Processing ( NLP ) is a fascinating field,natural language processing nlp be a fascinating field of artificial,natural language processing nlp fascinating field artificial intelligence enable computer,379,44,4,6.23,11.0,0.932,18.78
+2,"
+        Python is an excellent programming language for NLP tasks.
+        Libraries like NLTK, spa...",4,46,30,0,Python is an excellent programming language for NLP tasks .,python be an excellent programming language for nlp task library,python excellent programming language nlp task library like nltk spacy,321,40,4,5.85,10.0,0.95,42.29
+3,"
+        Social media platforms generate massive amounts of textual data daily.
+        Twitter, Fac...",4,45,31,0,Social media platforms generate massive amounts of textual data daily,social medium platform generate massive amount of textual data daily,social medium platform generate massive amount textual data daily twitter,347,38,4,6.63,9.5,0.921,14.63

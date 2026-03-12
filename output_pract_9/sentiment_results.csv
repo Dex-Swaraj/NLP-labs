@@ -1,0 +1,7 @@
+original,language,translated,vader,textblob,polarity,compound,emotion,consensus
+This product is amazing,en,This product is amazing,Positive,Positive,0.6000000000000001,0.5859,neutral,Positive
+Terrible service,en,Terrible service,Negative,Negative,-1.0,-0.4767,neutral,Negative
+यह उत्पाद बहुत अच्छा है,hi,this product is very good,Positive,Positive,0.9099999999999999,0.4927,neutral,Positive
+बहुत बुरा अनुभव,hi,very bad experience,Negative,Negative,-0.9099999999999998,-0.5849,neutral,Negative
+मी खूप आनंदी आहे,mr,I am very happy,Positive,Positive,1.0,0.6115,joy,Positive
+हा चित्रपट फार वाईट आहे,mr,This movie is very bad,Negative,Negative,-0.9099999999999998,-0.5849,neutral,Negative
